@@ -1,0 +1,24 @@
+[
+    {
+    "Nama" : "Giacinta Marescotti Nandya Kirana Permatadewi",
+    "Umur" : 21,
+    "NIM" : "215314211",
+    "Lulus" : true,
+    "Hobby" : [
+        "singing",
+        "swimming"
+    ],
+    "Pembimbing" : "Dr. Alb. Agung Hadhiatma M. T."
+},
+{
+    "Nama" : "Giacinta Marescotti Nandya Kirana Permatadewi",
+    "Umur" : 21,
+    "NIM" : "215314211",
+    "Lulus" : true,
+    "Hobby" : [
+        "singing",
+        "swimming"
+    ],
+    "pembimbing" : "Dr. Alb. Agung Hadhiatma M. T."
+}
+]
